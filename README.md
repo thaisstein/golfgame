@@ -4,7 +4,7 @@ Mini golf game project that was completed as part of the "Architecture de Moteur
 ## Objective
 Develop a mini golf game, incorporating physics, UI, and UX principles.
 
-##Project Overview
+## Project Overview
 This project was completed as part of the "Architecture de Moteur et Jeux Vidéo" class in 2023. Here's a summary of the implemented topics:
 
 - I - Initial Project Setup
